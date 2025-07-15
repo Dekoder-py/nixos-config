@@ -18,7 +18,9 @@
     # here is some command line tools I use frequently
     # feel free to add your own or remove some of them
 
+    # gui apps
     kitty # terminal
+    firefox # browser
 
     fastfetch
     yazi # terminal file manager
