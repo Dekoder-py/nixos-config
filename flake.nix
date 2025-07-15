@@ -13,6 +13,7 @@
       url = "github:elijah629/Akari";
       inputs.nixpkgs.follows = "nixpkgs";
     };
+    inputs.hyprland.url = "github:hyprwm/Hyprland";
   };
 
   outputs =
