@@ -15,6 +15,7 @@
     };
 
     shellAliases = {
+      lg = "lazygit";
       ll = "eza -l";
       c = "clear";
       e = "exit";
