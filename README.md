@@ -1,2 +1,3 @@
-# nixos-config
-My nixOS configuration
+# nixOS Config
+My modularised nixOS and Home-Manager configuration.
+
