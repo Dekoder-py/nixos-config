@@ -8,6 +8,7 @@
   imports = [
     ../modules/zsh/default.nix
     ../modules/git/default.nix
+    ../modules/gh/default.nix
   ];
   home.username = "kyle";
   home.homeDirectory = "/home/kyle";
