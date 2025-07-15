@@ -75,6 +75,10 @@
 
   programs.hyprlock.enable = true;
 
+  services.xserver.enable = true;
+  services.xserver.displayManager.sddm.enable = true;
+  services.xserver.displayManager.sddm.wayland.enable = true;
+
   # Enable automatic login for the user.
   services.getty.autologinUser = "kyle";
 
