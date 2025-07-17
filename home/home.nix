@@ -9,6 +9,7 @@
     ../modules/zsh/default.nix
     ../modules/git/default.nix
     ../modules/gh/default.nix
+    ../modules/hyprland/default.nix
   ];
   home.username = "kyle";
   home.homeDirectory = "/home/kyle";
