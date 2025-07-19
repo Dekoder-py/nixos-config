@@ -5,8 +5,9 @@
     "$mod" = "SUPER";
     bind =
       [
-        "$mod, F, exec, firefox"
+        "$mod, B, exec, firefox"
         "$mod, T, exec, kitty"
+        "$mod, Q, killactive"
       ]
       ++ (
         # workspaces
